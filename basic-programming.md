@@ -18,7 +18,7 @@ _[Please help make this better!]_
 
 #### **GIT** (Source control)
  * Git tutorial [Tutorial](http://bit.ly/1fUdUiy)
- * Git doucmentation [Documentation] (http://bit.ly/2ADXDJF)
+ * Git documentation [Documentation](http://bit.ly/2ADXDJF)
 
 #### **Testing**
  * nosetests [lib docs](https://nose.readthedocs.org/en/latest/)
