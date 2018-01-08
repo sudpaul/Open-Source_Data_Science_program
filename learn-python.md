@@ -3,7 +3,7 @@
 #### The Basics
 - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/ex0.html)
 - [Computer Science and Programming Using Python By MIT](http://bit.ly/2vaewhc)
-- [Using Python for Research By Harvard] (http://bit.ly/2FdQ3sw)
+- [Using Python for Research By Harvard](http://bit.ly/2FdQ3sw)
 - [Google Python tutorial](http://bit.ly/1bmXyG5)
 
 
